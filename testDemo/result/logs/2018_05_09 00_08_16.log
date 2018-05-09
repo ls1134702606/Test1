@@ -1,0 +1,31 @@
+[2018-05-09 00:08:21] [INFO] 加载驱动
+[2018-05-09 00:08:24] [INFO] 打开的网址为：http://127.0.0.1:8090/bbs/forum.php
+[2018-05-09 00:08:26] [INFO] 查找到相应元素 id: ls_username
+[2018-05-09 00:08:26] [INFO] 查找到相应元素 id: ls_username
+[2018-05-09 00:08:26] [INFO] 清空元素： id: ls_username上的内容
+[2018-05-09 00:08:26] [INFO] 在元素 id: ls_username上输入内容：admin
+[2018-05-09 00:08:26] [INFO] 查找到相应元素 id: ls_password
+[2018-05-09 00:08:26] [INFO] 查找到相应元素 id: ls_password
+[2018-05-09 00:08:26] [INFO] 清空元素： id: ls_password上的内容
+[2018-05-09 00:08:26] [INFO] 在元素 id: ls_password上输入内容：1234
+[2018-05-09 00:08:26] [INFO] 查找到相应元素 xpath: //*[@id="lsform"]/div/div/table/tbody/tr[2]/td[3]/button
+[2018-05-09 00:08:26] [INFO] 对元素： xpath: //*[@id="lsform"]/div/div/table/tbody/tr[2]/td[3]/button做点击操作
+[2018-05-09 00:08:28] [INFO] 查找到相应元素 xpath: //*[@id="category_1"]/table/tbody/tr[1]/td[2]/h2/a
+[2018-05-09 00:08:28] [INFO] 对元素： xpath: //*[@id="category_1"]/table/tbody/tr[1]/td[2]/h2/a做点击操作
+[2018-05-09 00:08:32] [INFO] 查找到相应元素 name: moderate[]
+[2018-05-09 00:08:32] [INFO] 对元素： name: moderate[]做点击操作
+[2018-05-09 00:08:36] [INFO] 查找到相应元素 xpath: //*[@id="mdly"]/p[1]/strong[1]/a
+[2018-05-09 00:08:36] [INFO] 对元素： xpath: //*[@id="mdly"]/p[1]/strong[1]/a做点击操作
+[2018-05-09 00:08:41] [INFO] 查找到相应元素 id: modsubmit
+[2018-05-09 00:08:41] [INFO] 对元素： id: modsubmit做点击操作
+[2018-05-09 00:08:41] [INFO] 查找到相应元素 xpath: //*[@id="um"]/p[1]/a[6]
+[2018-05-09 00:08:41] [INFO] 对元素： xpath: //*[@id="um"]/p[1]/a[6]做点击操作
+[2018-05-09 00:08:47] [INFO] 查找到相应元素 xpath: //*[@id="loginform"]/p[4]/input
+[2018-05-09 00:08:47] [INFO] 查找到相应元素 xpath: //*[@id="loginform"]/p[4]/input
+[2018-05-09 00:08:47] [INFO] 清空元素： xpath: //*[@id="loginform"]/p[4]/input上的内容
+[2018-05-09 00:08:47] [INFO] 在元素 xpath: //*[@id="loginform"]/p[4]/input上输入内容：1234
+[2018-05-09 00:08:50] [INFO] 查找到相应元素 xpath: //*[@id="loginform"]/p[9]/input
+[2018-05-09 00:09:17] [INFO] 对元素： xpath: //*[@id="loginform"]/p[9]/input做点击操作
+[2018-05-09 00:09:20] [INFO] 查找到相应元素 id: header_forum
+[2018-05-09 00:09:20] [INFO] 对元素： id: header_forum做点击操作
+[2018-05-09 00:09:23] [INFO] no found specifed Element
