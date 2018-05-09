@@ -1,0 +1,21 @@
+[2018-05-09 09:06:54] [INFO] 加载驱动
+[2018-05-09 09:06:58] [INFO] 打开的网址为：http://127.0.0.1:8090/bbs/forum.php
+[2018-05-09 09:06:59] [INFO] 查找到相应元素 id: ls_username
+[2018-05-09 09:06:59] [INFO] 查找到相应元素 id: ls_username
+[2018-05-09 09:06:59] [INFO] 清空元素： id: ls_username上的内容
+[2018-05-09 09:06:59] [INFO] 在元素 id: ls_username上输入内容：admin
+[2018-05-09 09:06:59] [INFO] 查找到相应元素 id: ls_password
+[2018-05-09 09:06:59] [INFO] 查找到相应元素 id: ls_password
+[2018-05-09 09:06:59] [INFO] 清空元素： id: ls_password上的内容
+[2018-05-09 09:06:59] [INFO] 在元素 id: ls_password上输入内容：1234
+[2018-05-09 09:06:59] [INFO] 查找到相应元素 xpath: //*[@id="lsform"]/div/div/table/tbody/tr[2]/td[3]/button
+[2018-05-09 09:07:00] [INFO] 对元素： xpath: //*[@id="lsform"]/div/div/table/tbody/tr[2]/td[3]/button做点击操作
+[2018-05-09 09:07:02] [INFO] 查找到相应元素 id: scbar_txt
+[2018-05-09 09:07:02] [INFO] 查找到相应元素 id: scbar_txt
+[2018-05-09 09:07:02] [INFO] 清空元素： id: scbar_txt上的内容
+[2018-05-09 09:07:02] [INFO] 在元素 id: scbar_txt上输入内容：haotest
+[2018-05-09 09:07:02] [INFO] 查找到相应元素 id: scbar_btn
+[2018-05-09 09:07:02] [INFO] 对元素： id: scbar_btn做点击操作
+[2018-05-09 09:07:03] [INFO] 查找到相应元素 link text: haotest
+[2018-05-09 09:07:03] [INFO] 对元素： link text: haotest做点击操作
+[2018-05-09 09:07:03] [ERROR] 预期文字是：[haotest],但实际文字是: [搜索 - Discuz! Board - Powered by Discuz!]
