@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="DiscuzWhiteTest" duration-ms="31269" started-at="2018-05-30T08:45:06Z" finished-at="2018-05-30T08:45:37Z">
+    <groups>
+    </groups>
+    <test name="product" duration-ms="31269" started-at="2018-05-30T08:45:06Z" finished-at="2018-05-30T08:45:37Z">
+      <class name="testCase.bbs_Test_01">
+        <test-method status="PASS" signature="initTest()[pri:0, instance:testCase.bbs_Test_01@36d64342]" name="initTest" is-config="true" duration-ms="15102" started-at="2018-05-30T16:45:06Z" finished-at="2018-05-30T16:45:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initTest -->
+        <test-method status="PASS" signature="testCase_1()[pri:0, instance:testCase.bbs_Test_01@36d64342]" name="testCase_1" duration-ms="16151" started-at="2018-05-30T16:45:21Z" finished-at="2018-05-30T16:45:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase_1 -->
+      </class> <!-- testCase.bbs_Test_01 -->
+    </test> <!-- product -->
+  </suite> <!-- DiscuzWhiteTest -->
+</testng-results>
